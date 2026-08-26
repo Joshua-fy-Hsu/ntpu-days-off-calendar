@@ -1,0 +1,15 @@
+{
+  "name": "ntpu-days-off-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/generate-calendar.mjs",
+    "test": "node --test",
+    "check": "npm run build && npm test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+

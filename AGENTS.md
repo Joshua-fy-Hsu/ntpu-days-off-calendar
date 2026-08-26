@@ -13,11 +13,11 @@ Do not manually diverge generated `.ics` files from their source data. Record th
 
 ## Build, Test, and Development Commands
 
-No build system or test runner has been added yet. Do not document or depend on commands that are not committed. After tooling is introduced, expose a small, predictable command set, such as:
+Use the committed Node.js scripts; the project has no third-party runtime dependencies:
 
-- `npm run build`: generate the `.ics` file and website assets.
-- `npm test`: validate event content and iCalendar formatting.
-- `npm run lint`: check source formatting and static errors.
+- `npm run build`: generate both published `.ics` copies from structured data.
+- `npm test`: validate event content and iCalendar formatting with `node:test`.
+- `npm run check`: regenerate the calendar and run the full test suite.
 
 Update this guide and the main README whenever commands change.
 

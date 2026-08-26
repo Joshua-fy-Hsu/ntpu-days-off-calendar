@@ -1,0 +1,219 @@
+{
+  "calendar": {
+    "nameZh": "臺北大學115學年度放假日曆",
+    "nameEn": "NTPU Academic Year 115 Days Off",
+    "academicYear": 115,
+    "coverageStart": "2026-08-01",
+    "coverageEnd": "2027-07-31",
+    "timeZone": "Asia/Taipei",
+    "sourceTitle": "國立臺北大學115學年度行事曆",
+    "sourceUrl": "https://fms.ntpu.edu.tw/filedownload/16276",
+    "approvedDate": "2026-03-18",
+    "publishedDate": "2026-07-08",
+    "verifiedDate": "2026-08-26"
+  },
+  "events": [
+    {
+      "id": "2026-mid-autumn-festival",
+      "start": "2026-09-25",
+      "titleZh": "中秋節放假",
+      "titleEn": "Mid-Autumn Festival Holiday",
+      "descriptionZh": "中秋節放假一天。",
+      "descriptionEn": "NTPU holiday for the Mid-Autumn Festival.",
+      "type": "holiday",
+      "sourcePage": 1
+    },
+    {
+      "id": "2026-teachers-day",
+      "start": "2026-09-28",
+      "titleZh": "教師節放假",
+      "titleEn": "Teachers' Day Holiday",
+      "descriptionZh": "教師節放假一天。",
+      "descriptionEn": "NTPU holiday for Teachers' Day.",
+      "type": "holiday",
+      "sourcePage": 1
+    },
+    {
+      "id": "2026-national-day-observed",
+      "start": "2026-10-09",
+      "titleZh": "國慶日補假",
+      "titleEn": "National Day Observed",
+      "descriptionZh": "國慶日適逢星期六，補假一天。",
+      "descriptionEn": "Compensatory holiday because National Day falls on Saturday.",
+      "type": "observed-holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2026-national-day",
+      "start": "2026-10-10",
+      "titleZh": "國慶日",
+      "titleEn": "National Day",
+      "descriptionZh": "國慶日放假一天。",
+      "descriptionEn": "National Day holiday.",
+      "type": "holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2026-taiwan-retrocession-day",
+      "start": "2026-10-25",
+      "titleZh": "臺灣光復暨金門古寧頭大捷紀念日",
+      "titleEn": "Taiwan Retrocession and Guningtou Victory Memorial Day",
+      "descriptionZh": "臺灣光復暨金門古寧頭大捷紀念日放假一天。",
+      "descriptionEn": "Holiday for Taiwan Retrocession and the Guningtou Victory commemoration.",
+      "type": "holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2026-taiwan-retrocession-day-observed",
+      "start": "2026-10-26",
+      "titleZh": "臺灣光復暨金門古寧頭大捷紀念日補假",
+      "titleEn": "Taiwan Retrocession Memorial Day Observed",
+      "descriptionZh": "紀念日適逢星期日，補假一天。",
+      "descriptionEn": "Compensatory holiday because the memorial day falls on Sunday.",
+      "type": "observed-holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2026-local-election-no-classes",
+      "start": "2026-11-28",
+      "titleZh": "地方公職人員選舉停課",
+      "titleEn": "Local Election Day - No Classes",
+      "descriptionZh": "適逢地方公職人員選舉，停課一日；進修學制補課另行公告。",
+      "descriptionEn": "Classes are suspended for local elections; make-up arrangements for continuing programs will be announced separately.",
+      "type": "no-classes",
+      "sourcePage": 2
+    },
+    {
+      "id": "2026-constitution-day",
+      "start": "2026-12-25",
+      "titleZh": "行憲紀念日",
+      "titleEn": "Constitution Day",
+      "descriptionZh": "行憲紀念日放假一天。",
+      "descriptionEn": "Constitution Day holiday.",
+      "type": "holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2027-new-years-day",
+      "start": "2027-01-01",
+      "titleZh": "開國紀念日",
+      "titleEn": "New Year's Day",
+      "descriptionZh": "開國紀念日放假一天。",
+      "descriptionEn": "Republic of China Founding Day and New Year's Day holiday.",
+      "type": "holiday",
+      "sourcePage": 2
+    },
+    {
+      "id": "2027-lunar-new-year",
+      "start": "2027-02-04",
+      "endExclusive": "2027-02-11",
+      "titleZh": "農曆春節放假",
+      "titleEn": "Lunar New Year Holiday",
+      "descriptionZh": "農曆春節假期，自2月4日至2月10日。",
+      "descriptionEn": "NTPU Lunar New Year holiday from February 4 through February 10.",
+      "type": "holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-peace-memorial-day",
+      "start": "2027-02-28",
+      "titleZh": "和平紀念日",
+      "titleEn": "Peace Memorial Day",
+      "descriptionZh": "和平紀念日放假一天。",
+      "descriptionEn": "Peace Memorial Day holiday.",
+      "type": "holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-peace-memorial-day-observed",
+      "start": "2027-03-01",
+      "titleZh": "和平紀念日補假",
+      "titleEn": "Peace Memorial Day Observed",
+      "descriptionZh": "和平紀念日適逢星期日，補假一天。",
+      "descriptionEn": "Compensatory holiday because Peace Memorial Day falls on Sunday.",
+      "type": "observed-holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-sports-day-compensatory-holiday",
+      "start": "2027-04-02",
+      "titleZh": "運動會補假",
+      "titleEn": "Sports Day Compensatory Holiday",
+      "descriptionZh": "補115年10月31日運動會放假一天。",
+      "descriptionEn": "NTPU compensatory holiday for the October 31, 2026 sports day.",
+      "type": "ntpu-holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-childrens-day",
+      "start": "2027-04-04",
+      "titleZh": "兒童節",
+      "titleEn": "Children's Day",
+      "descriptionZh": "兒童節放假一天。",
+      "descriptionEn": "Children's Day holiday.",
+      "type": "holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-tomb-sweeping-day",
+      "start": "2027-04-05",
+      "titleZh": "民族掃墓節",
+      "titleEn": "Tomb Sweeping Day",
+      "descriptionZh": "民族掃墓節放假一天。",
+      "descriptionEn": "Tomb Sweeping Day holiday.",
+      "type": "holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-childrens-day-observed",
+      "start": "2027-04-06",
+      "titleZh": "兒童節補假",
+      "titleEn": "Children's Day Observed",
+      "descriptionZh": "兒童節適逢星期日，補假一天。",
+      "descriptionEn": "Compensatory holiday because Children's Day falls on Sunday.",
+      "type": "observed-holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-anniversary-compensatory-holiday",
+      "start": "2027-04-07",
+      "titleZh": "校慶活動補假",
+      "titleEn": "University Anniversary Compensatory Holiday",
+      "descriptionZh": "補115年11月7日校慶活動放假一天。",
+      "descriptionEn": "NTPU compensatory holiday for the November 7, 2026 anniversary activities.",
+      "type": "ntpu-holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-labor-day-observed",
+      "start": "2027-04-30",
+      "titleZh": "勞動節補假",
+      "titleEn": "Labor Day Observed",
+      "descriptionZh": "勞動節適逢星期六，補假一天。",
+      "descriptionEn": "Compensatory holiday because Labor Day falls on Saturday.",
+      "type": "observed-holiday",
+      "sourcePage": 3
+    },
+    {
+      "id": "2027-labor-day",
+      "start": "2027-05-01",
+      "titleZh": "勞動節",
+      "titleEn": "Labor Day",
+      "descriptionZh": "勞動節放假一天。",
+      "descriptionEn": "Labor Day holiday.",
+      "type": "holiday",
+      "sourcePage": 4
+    },
+    {
+      "id": "2027-dragon-boat-festival",
+      "start": "2027-06-09",
+      "titleZh": "端午節",
+      "titleEn": "Dragon Boat Festival",
+      "descriptionZh": "端午節放假一天。",
+      "descriptionEn": "Dragon Boat Festival holiday.",
+      "type": "holiday",
+      "sourcePage": 4
+    }
+  ]
+}
+
