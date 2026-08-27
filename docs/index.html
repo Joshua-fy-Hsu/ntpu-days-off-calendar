@@ -4,56 +4,72 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="臺北大學115學年度 Apple 行事曆訂閱，僅收錄放假、補假與全校停課日。">
-    <title>臺北大學115學年度放假日曆 | NTPU Days Off</title>
+    <meta name="theme-color" content="#ffffff">
+    <title>臺北大學115學年度放假日曆</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <main>
-      <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">NTPU · Academic Year 115</p>
-        <h1 id="page-title">真正需要的<br><span>臺北大學放假日曆</span></h1>
-        <p class="intro">只收錄放假、補假、全校停課與補行上課資訊。沒有一般週末、考試、選課或寒暑假。</p>
-        <p class="intro en">Only holidays, observed holidays, university-wide no-class days, and schedule adjustments.</p>
-        <div class="actions">
-          <a class="button primary" href="webcal://joshua-fy-hsu.github.io/ntpu-days-off-calendar/ntpu-115.ics">加入 Apple 行事曆</a>
-          <a class="button secondary" href="ntpu-115.ics" download>下載 .ics</a>
+      <header class="hero">
+        <div class="calendar-icon" aria-hidden="true">
+          <span>115</span>
         </div>
+        <p class="kicker">NTPU DAYS OFF</p>
+        <h1>臺北大學<br>放假日曆</h1>
+        <p class="coverage">115學年度 · 2026/08/01—2027/07/31</p>
+        <p class="summary">只顯示真正影響上課的放假、補假與全校停課日。</p>
+
+        <a class="subscribe-button" href="webcal://joshua-fy-hsu.github.io/ntpu-days-off-calendar/ntpu-115.ics">
+          <span>加入 Apple 行事曆</span>
+          <span aria-hidden="true">→</span>
+        </a>
+        <a class="download-link" href="ntpu-115.ics" download>下載 .ics 檔案</a>
+
+        <ul class="quick-facts" aria-label="Calendar features">
+          <li>20 個事件</li>
+          <li>中英雙語</li>
+          <li>無提醒通知</li>
+        </ul>
+      </header>
+
+      <section class="content-card" aria-labelledby="included-title">
+        <h2 id="included-title">你會看到</h2>
+        <ul class="check-list">
+          <li><span aria-hidden="true">✓</span> 國定假日與補假</li>
+          <li><span aria-hidden="true">✓</span> NTPU 全校停課日</li>
+          <li><span aria-hidden="true">✓</span> 校慶、運動會補假</li>
+        </ul>
+        <p class="exclusion">不包含一般週末、寒暑假、考試、選課與行政行程。</p>
       </section>
 
-      <section class="details" aria-label="Calendar details">
-        <article>
-          <p class="number">115</p>
-          <h2>完整學年度</h2>
-          <p>2026年8月1日至2027年7月31日，涵蓋上下學期。</p>
-        </article>
-        <article>
-          <p class="number">中 / EN</p>
-          <h2>雙語事件名稱</h2>
-          <p>全天事件、無提醒通知，並附上官方資料來源。</p>
-        </article>
-        <article>
-          <p class="number">Read-only</p>
-          <h2>自動接收更新</h2>
-          <p>使用訂閱連結，日後修正可由 Apple 行事曆自動更新。</p>
-        </article>
-      </section>
-
-      <section class="instructions">
-        <div>
-          <p class="eyebrow">How to subscribe</p>
-          <h2>在 iPhone 上加入</h2>
-        </div>
+      <section class="steps" aria-labelledby="steps-title">
+        <h2 id="steps-title">如何加入</h2>
         <ol>
-          <li>點選「加入 Apple 行事曆」。</li>
-          <li>在行事曆 App 確認訂閱網址。</li>
-          <li>選擇 iCloud 帳號並完成訂閱。</li>
+          <li>
+            <span class="step-number">1</span>
+            <p>點選上方「加入 Apple 行事曆」</p>
+          </li>
+          <li>
+            <span class="step-number">2</span>
+            <p>允許開啟行事曆 App</p>
+          </li>
+          <li>
+            <span class="step-number">3</span>
+            <p>確認名稱後點選「訂閱」</p>
+          </li>
         </ol>
       </section>
 
+      <details class="manual-option">
+        <summary>無法開啟？手動加入</summary>
+        <p>在 Apple 行事曆選擇「加入訂閱行事曆」，貼上：</p>
+        <code>https://joshua-fy-hsu.github.io/ntpu-days-off-calendar/ntpu-115.ics</code>
+      </details>
+
       <footer>
-        <p>資料來源：<a href="https://carrier.ntpu.edu.tw/oaa/files?descent=true&amp;inline=1&amp;tag=%E8%A1%8C%E4%BA%8B%E6%9B%86">國立臺北大學教務處行事曆</a></p>
         <p>最後核對：2026-08-26</p>
-        <p class="disclaimer">本日曆為學生便利工具，並非國立臺北大學官方服務。臨時異動請以校方最新公告為準。</p>
+        <p><a href="https://carrier.ntpu.edu.tw/oaa/files?descent=true&amp;inline=1&amp;tag=%E8%A1%8C%E4%BA%8B%E6%9B%86">查看 NTPU 官方行事曆</a></p>
+        <p class="disclaimer">本日曆為學生便利工具，並非國立臺北大學官方服務。臨時異動以校方最新公告為準。</p>
       </footer>
     </main>
   </body>
