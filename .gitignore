@@ -2,3 +2,16 @@ node_modules/
 tmp/
 *.log
 
+# Local agent and editor configuration
+AGENTS.md
+.agents/
+.codex/
+.vscode/
+.idea/
+
+# Local environment and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
