@@ -8,7 +8,7 @@ X-WR-CALNAME:臺北大學115學年度放假日曆 / NTPU Academic Year 115
 X-WR-TIMEZONE:Asia/Taipei
 BEGIN:VEVENT
 UID:2026-mid-autumn-festival@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:中秋節放假 / Mid-Autumn Festival Holiday
@@ -22,7 +22,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-teachers-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:教師節放假 / Teachers' Day Holiday
@@ -36,7 +36,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-national-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:國慶日補假 / National Day Observed
@@ -51,7 +51,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-national-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:國慶日 / National Day
@@ -65,7 +65,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-taiwan-retrocession-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:臺灣光復暨金門古寧頭大捷紀念日 / Taiwan Retrocession
@@ -81,7 +81,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-taiwan-retrocession-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:臺灣光復暨金門古寧頭大捷紀念日補假 / Taiwan Retroc
@@ -97,7 +97,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-local-election-no-classes@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:地方公職人員選舉停課 / Local Election Day - No Classes
@@ -113,7 +113,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-constitution-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:行憲紀念日 / Constitution Day
@@ -127,7 +127,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-new-years-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:開國紀念日 / New Year's Day
@@ -142,7 +142,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-lunar-new-year@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270211
 SUMMARY:農曆春節放假 / Lunar New Year Holiday
@@ -157,7 +157,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-peace-memorial-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:和平紀念日 / Peace Memorial Day
@@ -171,7 +171,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-peace-memorial-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:和平紀念日補假 / Peace Memorial Day Observed
@@ -186,7 +186,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-sports-day-compensatory-holiday@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:運動會補假 / Sports Day Compensatory Holiday
@@ -201,7 +201,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-childrens-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:兒童節 / Children's Day
@@ -215,7 +215,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-tomb-sweeping-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:民族掃墓節 / Tomb Sweeping Day
@@ -229,7 +229,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-childrens-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:兒童節補假 / Children's Day Observed
@@ -244,7 +244,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-anniversary-compensatory-holiday@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:校慶活動補假 / University Anniversary Compensatory Holiday
@@ -259,7 +259,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-labor-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:勞動節補假 / Labor Day Observed
@@ -274,7 +274,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-labor-day@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:勞動節 / Labor Day
@@ -288,7 +288,7 @@ URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-dragon-boat-festival@ntpu-days-off-calendar
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:端午節 / Dragon Boat Festival

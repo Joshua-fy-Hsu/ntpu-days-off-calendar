@@ -10,7 +10,7 @@ const translations = {
     excluded: "不另外標示一般週六、週日，也不收錄寒暑假、考試週或只有部分師生適用的活動。",
     howTitle: "如何訂閱", step1: "點選「加入 Apple 行事曆」。", step2: "在系統視窗中選擇「訂閱」。", step3: "之後更新會自動同步，不需重新下載。",
     manualTitle: "手動訂閱網址", manualHelp: "若按鈕沒有開啟行事曆，請複製以下網址，並在 Apple 行事曆中新增訂閱行事曆：",
-    source: "資料來源：國立臺北大學 115 學年度行事曆", disclaimer: "此為非官方便利工具；如有差異，以校方最新公告為準。",
+    source: "資料來源：國立臺北大學 115 學年度行事曆", verified: "最後核對官方行事曆：2026/08/27", disclaimer: "此為非官方便利工具；如有差異，以校方最新公告為準。",
   },
   en: {
     htmlLang: "en", pageTitle: "NTPU Days-Off Calendar", feed: "ntpu-115-en.ics",
@@ -21,7 +21,7 @@ const translations = {
     excluded: "Ordinary weekends, summer and winter vacations, exam weeks, and events affecting only some students or staff are not included.",
     howTitle: "How to subscribe", step1: "Select “Add to Apple Calendar.”", step2: "Choose “Subscribe” in the system dialog.", step3: "Future updates sync automatically—no need to download again.",
     manualTitle: "Manual subscription URL", manualHelp: "If the button does not open Calendar, copy this URL and add it as a subscribed calendar:",
-    source: "Source: NTPU Academic Year 115 Calendar", disclaimer: "This is an unofficial convenience tool. NTPU’s latest announcement takes precedence.",
+    source: "Source: NTPU Academic Year 115 Calendar", verified: "Official calendar last checked: Aug 27, 2026", disclaimer: "This is an unofficial convenience tool. NTPU’s latest announcement takes precedence.",
   },
 };
 
@@ -51,4 +51,7 @@ document.querySelectorAll("[data-language]").forEach((button) => { button.addEve
 
 const requestedLanguage = new URLSearchParams(window.location.search).get("lang");
 const savedLanguage = localStorage.getItem("ntpu-calendar-language");
-applyLanguage(["zh", "en"].includes(requestedLanguage) ? requestedLanguage : savedLanguage ?? "zh", false);
+const initialLanguage = ["zh", "en"].includes(requestedLanguage)
+  ? requestedLanguage
+  : ["zh", "en"].includes(savedLanguage) ? savedLanguage : "zh";
+applyLanguage(initialLanguage, false);
