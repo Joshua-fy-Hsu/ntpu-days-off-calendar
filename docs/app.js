@@ -51,5 +51,4 @@ document.querySelectorAll("[data-language]").forEach((button) => { button.addEve
 
 const requestedLanguage = new URLSearchParams(window.location.search).get("lang");
 const savedLanguage = localStorage.getItem("ntpu-calendar-language");
-const browserLanguage = navigator.language.toLowerCase().startsWith("zh") ? "zh" : "en";
-applyLanguage(["zh", "en"].includes(requestedLanguage) ? requestedLanguage : savedLanguage ?? browserLanguage, false);
+applyLanguage(["zh", "en"].includes(requestedLanguage) ? requestedLanguage : savedLanguage ?? "zh", false);
