@@ -7,6 +7,7 @@
     "coverageEnd": "2027-07-31",
     "timeZone": "Asia/Taipei",
     "sourceTitle": "國立臺北大學115學年度行事曆",
+    "sourceTitleEn": "NTPU Academic Year 115 Calendar",
     "sourceUrl": "https://fms.ntpu.edu.tw/filedownload/16276",
     "approvedDate": "2026-03-18",
     "publishedDate": "2026-07-08",
@@ -216,4 +217,3 @@
     }
   ]
 }
-

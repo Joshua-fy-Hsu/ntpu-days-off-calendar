@@ -1,44 +1,42 @@
 BEGIN:VCALENDAR
-PRODID:-//NTPU Days-Off Calendar//Academic Year 115//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+PRODID:-//NTPU Days-Off Calendar//Academic Year 115//EN
 X-WR-CALNAME:臺北大學115學年度放假日曆 / NTPU Academic Year 115 
  Days Off
 X-WR-TIMEZONE:Asia/Taipei
-REFRESH-INTERVAL;VALUE=DURATION:PT12H
-X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-mid-autumn-festival@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:中秋節放假 / Mid-Autumn Festival Holiday
 DESCRIPTION:中秋節放假一天。\nNTPU holiday for the Mid-Autumn Festi
  val.\n來源 / Source: 國立臺北大學115學年度行事曆，第1頁 /
   page 1\nhttps://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-teachers-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:教師節放假 / Teachers' Day Holiday
 DESCRIPTION:教師節放假一天。\nNTPU holiday for Teachers' Day.\n來
  源 / Source: 國立臺北大學115學年度行事曆，第1頁 / page 1\n
  https://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-national-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:國慶日補假 / National Day Observed
@@ -46,28 +44,28 @@ DESCRIPTION:國慶日適逢星期六，補假一天。\nCompensatory holida
  y because National Day falls on Saturday.\n來源 / Source: 國立臺北
  大學115學年度行事曆，第2頁 / page 2\nhttps://fms.ntpu.edu.tw/fi
  ledownload/16276
-CATEGORIES:OBSERVED_HOLIDAY,NTPU
+CATEGORIES:observed-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-national-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:國慶日 / National Day
 DESCRIPTION:國慶日放假一天。\nNational Day holiday.\n來源 / Sourc
  e: 國立臺北大學115學年度行事曆，第2頁 / page 2\nhttps://fms
  .ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-taiwan-retrocession-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:臺灣光復暨金門古寧頭大捷紀念日 / Taiwan Retrocession
@@ -76,14 +74,14 @@ DESCRIPTION:臺灣光復暨金門古寧頭大捷紀念日放假一天。\nH
  oliday for Taiwan Retrocession and the Guningtou Victory commemoration.\n
  來源 / Source: 國立臺北大學115學年度行事曆，第2頁 / page 
  2\nhttps://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-taiwan-retrocession-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:臺灣光復暨金門古寧頭大捷紀念日補假 / Taiwan Retroc
@@ -92,14 +90,14 @@ DESCRIPTION:紀念日適逢星期日，補假一天。\nCompensatory holida
  y because the memorial day falls on Sunday.\n來源 / Source: 國立臺北
  大學115學年度行事曆，第2頁 / page 2\nhttps://fms.ntpu.edu.tw/fi
  ledownload/16276
-CATEGORIES:OBSERVED_HOLIDAY,NTPU
+CATEGORIES:observed-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-local-election-no-classes@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:地方公職人員選舉停課 / Local Election Day - No Classes
@@ -108,28 +106,28 @@ DESCRIPTION:適逢地方公職人員選舉，停課一日；進修學制補
  rangements for continuing programs will be announced separately.\n來源 /
   Source: 國立臺北大學115學年度行事曆，第2頁 / page 2\nhttps
  ://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:NO_CLASSES,NTPU
+CATEGORIES:no-classes
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-constitution-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:行憲紀念日 / Constitution Day
 DESCRIPTION:行憲紀念日放假一天。\nConstitution Day holiday.\n來
  源 / Source: 國立臺北大學115學年度行事曆，第2頁 / page 2\n
  https://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-new-years-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:開國紀念日 / New Year's Day
@@ -137,14 +135,14 @@ DESCRIPTION:開國紀念日放假一天。\nRepublic of China Founding Day
  and New Year's Day holiday.\n來源 / Source: 國立臺北大學115學年
  度行事曆，第2頁 / page 2\nhttps://fms.ntpu.edu.tw/filedownload/1627
  6
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-lunar-new-year@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270211
 SUMMARY:農曆春節放假 / Lunar New Year Holiday
@@ -152,28 +150,28 @@ DESCRIPTION:農曆春節假期，自2月4日至2月10日。\nNTPU Lunar New
   Year holiday from February 4 through February 10.\n來源 / Source: 國
  立臺北大學115學年度行事曆，第3頁 / page 3\nhttps://fms.ntpu.
  edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-peace-memorial-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:和平紀念日 / Peace Memorial Day
 DESCRIPTION:和平紀念日放假一天。\nPeace Memorial Day holiday.\n
  來源 / Source: 國立臺北大學115學年度行事曆，第3頁 / page 
  3\nhttps://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-peace-memorial-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:和平紀念日補假 / Peace Memorial Day Observed
@@ -181,14 +179,14 @@ DESCRIPTION:和平紀念日適逢星期日，補假一天。\nCompensatory
  holiday because Peace Memorial Day falls on Sunday.\n來源 / Source: 國
  立臺北大學115學年度行事曆，第3頁 / page 3\nhttps://fms.ntpu.
  edu.tw/filedownload/16276
-CATEGORIES:OBSERVED_HOLIDAY,NTPU
+CATEGORIES:observed-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-sports-day-compensatory-holiday@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:運動會補假 / Sports Day Compensatory Holiday
@@ -196,42 +194,42 @@ DESCRIPTION:補115年10月31日運動會放假一天。\nNTPU compensatory
  holiday for the October 31\, 2026 sports day.\n來源 / Source: 國立臺
  北大學115學年度行事曆，第3頁 / page 3\nhttps://fms.ntpu.edu.tw
  /filedownload/16276
-CATEGORIES:NTPU_HOLIDAY,NTPU
+CATEGORIES:ntpu-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-childrens-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:兒童節 / Children's Day
 DESCRIPTION:兒童節放假一天。\nChildren's Day holiday.\n來源 / Sou
  rce: 國立臺北大學115學年度行事曆，第3頁 / page 3\nhttps://f
  ms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-tomb-sweeping-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:民族掃墓節 / Tomb Sweeping Day
 DESCRIPTION:民族掃墓節放假一天。\nTomb Sweeping Day holiday.\n來
  源 / Source: 國立臺北大學115學年度行事曆，第3頁 / page 3\n
  https://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-childrens-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:兒童節補假 / Children's Day Observed
@@ -239,14 +237,14 @@ DESCRIPTION:兒童節適逢星期日，補假一天。\nCompensatory holida
  y because Children's Day falls on Sunday.\n來源 / Source: 國立臺北
  大學115學年度行事曆，第3頁 / page 3\nhttps://fms.ntpu.edu.tw/fi
  ledownload/16276
-CATEGORIES:OBSERVED_HOLIDAY,NTPU
+CATEGORIES:observed-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-anniversary-compensatory-holiday@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:校慶活動補假 / University Anniversary Compensatory Holiday
@@ -254,14 +252,14 @@ DESCRIPTION:補115年11月7日校慶活動放假一天。\nNTPU compensator
  y holiday for the November 7\, 2026 anniversary activities.\n來源 / Sour
  ce: 國立臺北大學115學年度行事曆，第3頁 / page 3\nhttps://fm
  s.ntpu.edu.tw/filedownload/16276
-CATEGORIES:NTPU_HOLIDAY,NTPU
+CATEGORIES:ntpu-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-labor-day-observed@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:勞動節補假 / Labor Day Observed
@@ -269,35 +267,35 @@ DESCRIPTION:勞動節適逢星期六，補假一天。\nCompensatory holida
  y because Labor Day falls on Saturday.\n來源 / Source: 國立臺北大
  學115學年度行事曆，第3頁 / page 3\nhttps://fms.ntpu.edu.tw/filed
  ownload/16276
-CATEGORIES:OBSERVED_HOLIDAY,NTPU
+CATEGORIES:observed-holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-labor-day@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:勞動節 / Labor Day
 DESCRIPTION:勞動節放假一天。\nLabor Day holiday.\n來源 / Source: 
  國立臺北大學115學年度行事曆，第4頁 / page 4\nhttps://fms.nt
  pu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-dragon-boat-festival@ntpu-days-off-calendar
-DTSTAMP:20260708T000000Z
+DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:端午節 / Dragon Boat Festival
 DESCRIPTION:端午節放假一天。\nDragon Boat Festival holiday.\n來源
   / Source: 國立臺北大學115學年度行事曆，第4頁 / page 4\nhtt
  ps://fms.ntpu.edu.tw/filedownload/16276
-CATEGORIES:HOLIDAY,NTPU
+CATEGORIES:holiday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://fms.ntpu.edu.tw/filedownload/16276

@@ -30,7 +30,8 @@ Create an Apple Calendar subscription for National Taipei University (NTPU) stud
 
 ## Event Format
 
-- Traditional Chinese and English event names
+- Separate Traditional Chinese and English calendar feeds served through one bilingual website
+- Each feed uses event names and descriptions in its selected language only
 - All-day events
 - No notifications or alerts
 - `Asia/Taipei` time zone
@@ -56,7 +57,8 @@ Taiwan government calendar information may be used to verify holidays already re
 GitHub Pages will host:
 
 - A public information page
-- A calendar file, such as `ntpu-115.ics`
+- Traditional Chinese and English calendar files, such as `ntpu-115-zh.ics` and `ntpu-115-en.ics`
+- An in-page language switch that changes all interface text and selects the matching calendar feed
 - An **Add to Apple Calendar** subscription link
 - A direct-download option
 - The source, last-updated date, and disclaimer

@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//NTPU Days-Off Calendar//Academic Year 115//EN
+X-WR-CALNAME:NTPU Academic Year 115 Days Off
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+UID:2026-mid-autumn-festival.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Mid-Autumn Festival Holiday
+DESCRIPTION:NTPU holiday for the Mid-Autumn Festival.\nSource: NTPU Academi
+ c Year 115 Calendar\, page 1\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-teachers-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Teachers' Day Holiday
+DESCRIPTION:NTPU holiday for Teachers' Day.\nSource: NTPU Academic Year 115
+  Calendar\, page 1\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-national-day-observed.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:National Day Observed
+DESCRIPTION:Compensatory holiday because National Day falls on Saturday.\nS
+ ource: NTPU Academic Year 115 Calendar\, page 2\nhttps://fms.ntpu.edu.tw/f
+ iledownload/16276
+CATEGORIES:observed-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-national-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:National Day
+DESCRIPTION:National Day holiday.\nSource: NTPU Academic Year 115 Calendar\
+ , page 2\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-taiwan-retrocession-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Taiwan Retrocession and Guningtou Victory Memorial Day
+DESCRIPTION:Holiday for Taiwan Retrocession and the Guningtou Victory comme
+ moration.\nSource: NTPU Academic Year 115 Calendar\, page 2\nhttps://fms.n
+ tpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-taiwan-retrocession-day-observed.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Taiwan Retrocession Memorial Day Observed
+DESCRIPTION:Compensatory holiday because the memorial day falls on Sunday.\
+ nSource: NTPU Academic Year 115 Calendar\, page 2\nhttps://fms.ntpu.edu.tw
+ /filedownload/16276
+CATEGORIES:observed-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-local-election-no-classes.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Local Election Day - No Classes
+DESCRIPTION:Classes are suspended for local elections\; make-up arrangement
+ s for continuing programs will be announced separately.\nSource: NTPU Acad
+ emic Year 115 Calendar\, page 2\nhttps://fms.ntpu.edu.tw/filedownload/1627
+ 6
+CATEGORIES:no-classes
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-constitution-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Constitution Day
+DESCRIPTION:Constitution Day holiday.\nSource: NTPU Academic Year 115 Calen
+ dar\, page 2\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-new-years-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:New Year's Day
+DESCRIPTION:Republic of China Founding Day and New Year's Day holiday.\nSou
+ rce: NTPU Academic Year 115 Calendar\, page 2\nhttps://fms.ntpu.edu.tw/fil
+ edownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-lunar-new-year.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270211
+SUMMARY:Lunar New Year Holiday
+DESCRIPTION:NTPU Lunar New Year holiday from February 4 through February 10
+ .\nSource: NTPU Academic Year 115 Calendar\, page 3\nhttps://fms.ntpu.edu.
+ tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-peace-memorial-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Peace Memorial Day
+DESCRIPTION:Peace Memorial Day holiday.\nSource: NTPU Academic Year 115 Cal
+ endar\, page 3\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-peace-memorial-day-observed.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Peace Memorial Day Observed
+DESCRIPTION:Compensatory holiday because Peace Memorial Day falls on Sunday
+ .\nSource: NTPU Academic Year 115 Calendar\, page 3\nhttps://fms.ntpu.edu.
+ tw/filedownload/16276
+CATEGORIES:observed-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-sports-day-compensatory-holiday.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Sports Day Compensatory Holiday
+DESCRIPTION:NTPU compensatory holiday for the October 31\, 2026 sports day.
+ \nSource: NTPU Academic Year 115 Calendar\, page 3\nhttps://fms.ntpu.edu.t
+ w/filedownload/16276
+CATEGORIES:ntpu-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-childrens-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Children's Day
+DESCRIPTION:Children's Day holiday.\nSource: NTPU Academic Year 115 Calenda
+ r\, page 3\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-tomb-sweeping-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Tomb Sweeping Day
+DESCRIPTION:Tomb Sweeping Day holiday.\nSource: NTPU Academic Year 115 Cale
+ ndar\, page 3\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-childrens-day-observed.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Children's Day Observed
+DESCRIPTION:Compensatory holiday because Children's Day falls on Sunday.\nS
+ ource: NTPU Academic Year 115 Calendar\, page 3\nhttps://fms.ntpu.edu.tw/f
+ iledownload/16276
+CATEGORIES:observed-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-anniversary-compensatory-holiday.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:University Anniversary Compensatory Holiday
+DESCRIPTION:NTPU compensatory holiday for the November 7\, 2026 anniversary
+  activities.\nSource: NTPU Academic Year 115 Calendar\, page 3\nhttps://fm
+ s.ntpu.edu.tw/filedownload/16276
+CATEGORIES:ntpu-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-labor-day-observed.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Labor Day Observed
+DESCRIPTION:Compensatory holiday because Labor Day falls on Saturday.\nSour
+ ce: NTPU Academic Year 115 Calendar\, page 3\nhttps://fms.ntpu.edu.tw/file
+ download/16276
+CATEGORIES:observed-holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-labor-day.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Labor Day
+DESCRIPTION:Labor Day holiday.\nSource: NTPU Academic Year 115 Calendar\, p
+ age 4\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-dragon-boat-festival.en@ntpu-days-off-calendar
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Dragon Boat Festival
+DESCRIPTION:Dragon Boat Festival holiday.\nSource: NTPU Academic Year 115 C
+ alendar\, page 4\nhttps://fms.ntpu.edu.tw/filedownload/16276
+CATEGORIES:holiday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://fms.ntpu.edu.tw/filedownload/16276
+END:VEVENT
+END:VCALENDAR

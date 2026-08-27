@@ -25,7 +25,7 @@ Update this guide and the main README whenever commands change.
 
 Use UTF-8 for all files and preserve Traditional Chinese text exactly. Use two-space indentation for JSON, YAML, JavaScript, and CSS. Prefer descriptive `camelCase` identifiers in scripts and lowercase kebab-case filenames, such as `ntpu-115.ics`.
 
-Calendar events must be bilingual, all-day, alert-free, and use stable UIDs. Treat `Asia/Taipei` as the project time zone. Keep source comments concise and explain decisions rather than restating code.
+Calendar events must be available as separate Traditional Chinese and English feeds, remain all-day and alert-free, and use stable language-specific UIDs. Treat `Asia/Taipei` as the project time zone. Keep source comments concise and explain decisions rather than restating code.
 
 ## Testing Guidelines
 
